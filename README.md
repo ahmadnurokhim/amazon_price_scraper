@@ -1,5 +1,6 @@
 # What is this?
-A simple script to scrape the name and price of the top products based on keywords.
+A simple script to scrape the name and price of the top products on Amazon based on keywords.<br>
+note: advertised product are ignored
 
 # How to use?
 - Install the required libraries
